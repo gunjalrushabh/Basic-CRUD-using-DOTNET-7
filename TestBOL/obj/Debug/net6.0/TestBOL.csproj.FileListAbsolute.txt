@@ -1,0 +1,36 @@
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\TestBOL.exe
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\TestBOL.deps.json
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\TestBOL.runtimeconfig.json
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\TestBOL.dll
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\TestBOL.pdb
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\BOL.dll
+E:\dotnet\day5\TestBOL\bin\Debug\net6.0\BOL.pdb
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.csproj.AssemblyReference.cache
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.AssemblyInfoInputs.cache
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.AssemblyInfo.cs
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.csproj.CoreCompileInputs.cache
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.csproj.CopyComplete
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.dll
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\refint\TestBOL.dll
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.pdb
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\TestBOL.genruntimeconfig.cache
+E:\dotnet\day5\TestBOL\obj\Debug\net6.0\ref\TestBOL.dll
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\TestBOL.exe
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\TestBOL.deps.json
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\TestBOL.runtimeconfig.json
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\TestBOL.dll
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\TestBOL.pdb
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\BOL.dll
+E:\Rohit Patil\DotNet\day5\TestBOL\bin\Debug\net6.0\BOL.pdb
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.csproj.AssemblyReference.cache
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.AssemblyInfoInputs.cache
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.AssemblyInfo.cs
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.csproj.CoreCompileInputs.cache
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.csproj.CopyComplete
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.dll
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\refint\TestBOL.dll
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.pdb
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\TestBOL.genruntimeconfig.cache
+E:\Rohit Patil\DotNet\day5\TestBOL\obj\Debug\net6.0\ref\TestBOL.dll

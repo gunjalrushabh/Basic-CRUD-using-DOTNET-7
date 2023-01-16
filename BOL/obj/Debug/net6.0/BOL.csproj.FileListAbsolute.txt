@@ -1,0 +1,24 @@
+E:\dotnet\day5\BOL\bin\Debug\net6.0\BOL.deps.json
+E:\dotnet\day5\BOL\bin\Debug\net6.0\BOL.dll
+E:\dotnet\day5\BOL\bin\Debug\net6.0\BOL.pdb
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.csproj.AssemblyReference.cache
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.AssemblyInfoInputs.cache
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.AssemblyInfo.cs
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.csproj.CoreCompileInputs.cache
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.dll
+E:\dotnet\day5\BOL\obj\Debug\net6.0\refint\BOL.dll
+E:\dotnet\day5\BOL\obj\Debug\net6.0\BOL.pdb
+E:\dotnet\day5\BOL\obj\Debug\net6.0\ref\BOL.dll
+E:\Rohit Patil\DotNet\day5\BOL\bin\Debug\net6.0\BOL.deps.json
+E:\Rohit Patil\DotNet\day5\BOL\bin\Debug\net6.0\BOL.dll
+E:\Rohit Patil\DotNet\day5\BOL\bin\Debug\net6.0\BOL.pdb
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.csproj.AssemblyReference.cache
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.AssemblyInfoInputs.cache
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.AssemblyInfo.cs
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.csproj.CoreCompileInputs.cache
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.dll
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\refint\BOL.dll
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\BOL.pdb
+E:\Rohit Patil\DotNet\day5\BOL\obj\Debug\net6.0\ref\BOL.dll
